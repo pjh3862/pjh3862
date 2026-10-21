@@ -35,8 +35,6 @@ _엑셀은 익숙한 편인데, 터미널은 아직 낯을 가립니다._ 😅
 
 ### 🌱 만들고 있는 작은 프로젝트
 
-**[Production Management Automation](https://github.com/pjh3862/production-management-automation)**
-
 생산실적, 공정별 재고, 출하계획을 연결해서 현황을 좀 더 편하게 확인할 수 있는 프로그램을 만들어 보고 있습니다.
 
 `기초재고 → 생산실적 → 재고 계산 → 출하 대비 진도율`
