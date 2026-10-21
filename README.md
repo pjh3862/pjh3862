@@ -7,7 +7,7 @@
 
 제 GitHub에 방문해 주셔서 감사합니다. 🍀
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,19,20&height=3&section=header" width="75%"/>
+---
 
 ### 💌 A Little Message
 
@@ -18,8 +18,6 @@
 **✨ Every day is a fresh start. ✨**
 
 <br>
-
-![Visitors](https://komarev.com/ghpvc/?username=pjh3862&label=VISITORS&color=a8dadc&style=flat-square)
 
 **🌸 Thanks for visiting! Have a wonderful day! 🌸**
 
